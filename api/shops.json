@@ -82,6 +82,15 @@
             "details":"https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/351007/%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B-%E5%90%89%E9%87%8E%E5%AE%B6%E5%88%AA%E7%8D%85%E5%AD%90%E7%8B%97%E5%BB%A3%E5%91%8A%E7%96%91%E8%A7%A3%E5%83%B1%E5%BB%A3%E5%91%8A%E5%93%A1%E5%B7%A5-%E8%81%B7%E5%B7%A5%E7%9B%9F%E5%91%BC%E7%B1%B2%E7%BD%B7%E9%A3%9F"
         },
         { 
+            "title": "The Grove Taiwanese Cafe (石門)", 
+            "type":"food",
+            "fc": false,
+            "date":"2019-07-03",
+            "src": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-1/13312797_500376263479689_7291900536379458994_n.jpg?_nc_cat=105&_nc_oc=AQm5SVhMFBGtHNY-w6LEqr49bN7_07B9C-f4Ob5P9M9Q6hFLD8HSOxPDjpshk9qZsKg&_nc_ht=scontent-hkg3-1.xx&oh=fba2f04c09204f3fe1d089c13b079f37&oe=5DEA65CA",
+            "reason":"疑似店主發表深藍言論(已封閉facebook帳號)",
+            "details":"https://lihkg.com/thread/1281230/page/1"
+        },
+        { 
             "title": "士多Ztore", 
             "type":"food",
             "fc": true,
